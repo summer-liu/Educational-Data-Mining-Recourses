@@ -44,8 +44,17 @@ Mining, Through Educational Data.<a href="http://tech.ed.gov/wp-content/uploads/
 
 
 ##Research Labs
+<a href="http://www.learnlab.org/" target="_blank">LearnLab,Pittsburgh Science of Learning Center</a>
+
+<a href="http://www.sri.com/research-development/education-learning" target="_blank">SRI International Education</a>
+
+<a href="http://www.cei.ncsu.edu/" target="_blank">Center for Educational Informatics, NC State University</a>
+
+
 
 ##Researchers
+<a href="http://www.public.asu.edu/~kvanlehn/" target=""_blank>Kurt Vanlehn</a>
+
 <a href="http://www.columbia.edu/~rsb2162/" target=""_blank>Ryan Baker</a>
 
 
